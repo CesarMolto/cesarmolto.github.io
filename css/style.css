@@ -398,6 +398,22 @@ a:hover, a h4:hover {
 	}
 }
 
+.official-site-button{
+	display: inline;
+	color: #ff8200;
+	background-color: #171717;
+	border: 0.08rem solid #ff8200;
+	font-size: 20px;
+	padding: 0.8rem 2rem;	
+}
+
+.official-site-button:hover
+{
+	color: #171717;
+	background-color: #ff8200;
+	text-decoration: none;
+}
+
 .resume-button{
 
 	color: #ff8200;
